@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Priyesh\\TriangleSolver\\TriangleSolver\\",
+  "WorkspaceRootPath": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E91297F3-BEAC-4D77-8BEF-B6DA0646079E}|TriangleSolver\\TriangleSolver.csproj|d:\\priyesh\\trianglesolver\\trianglesolver\\trianglesolver\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66B7D23A-59F3-49BD-9E2E-7A0C97FF0E69}|TringleSolverTest\\TringleSolverTest.csproj|d:\\trianglesolver-git\\trianglesolver\\trianglesolver\\trianglesolver\\tringlesolvertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B7D23A-59F3-49BD-9E2E-7A0C97FF0E69}|TringleSolverTest\\TringleSolverTest.csproj|solutionrelative:tringlesolvertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B7D23A-59F3-49BD-9E2E-7A0C97FF0E69}|TringleSolverTest\\TringleSolverTest.csproj|d:\\trianglesolver-git\\trianglesolver\\trianglesolver\\trianglesolver\\tringlesolvertest\\tringlesolvertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66B7D23A-59F3-49BD-9E2E-7A0C97FF0E69}|TringleSolverTest\\TringleSolverTest.csproj|solutionrelative:tringlesolvertest\\tringlesolvertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91297F3-BEAC-4D77-8BEF-B6DA0646079E}|TriangleSolver\\TriangleSolver.csproj|d:\\trianglesolver-git\\trianglesolver\\trianglesolver\\trianglesolver\\trianglesolver\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E91297F3-BEAC-4D77-8BEF-B6DA0646079E}|TriangleSolver\\TriangleSolver.csproj|solutionrelative:trianglesolver\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TringleSolverTest",
+              "DocumentMoniker": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\TringleSolverTest.csproj",
+              "RelativeDocumentMoniker": "TringleSolverTest\\TringleSolverTest.csproj",
+              "ToolTip": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\TringleSolverTest.csproj",
+              "RelativeToolTip": "TringleSolverTest\\TringleSolverTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T20:14:50.36Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,10 +44,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TringleSolverTest\\UnitTest1.cs",
+              "ToolTip": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\UnitTest1.cs",
+              "RelativeToolTip": "TringleSolverTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:14:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Triangle.cs",
-              "DocumentMoniker": "D:\\Priyesh\\TriangleSolver\\TriangleSolver\\TriangleSolver\\Triangle.cs",
+              "DocumentMoniker": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TriangleSolver\\Triangle.cs",
               "RelativeDocumentMoniker": "TriangleSolver\\Triangle.cs",
-              "ToolTip": "D:\\Priyesh\\TriangleSolver\\TriangleSolver\\TriangleSolver\\Triangle.cs",
+              "ToolTip": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TriangleSolver\\Triangle.cs",
               "RelativeToolTip": "TriangleSolver\\Triangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
