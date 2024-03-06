@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TringleSolverTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb4524163b2576d5cbe89d275813fde657c3b33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+487efddacc2e4b91bda7623e9f8dca8a702cdad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TringleSolverTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TringleSolverTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

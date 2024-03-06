@@ -10,3 +10,9 @@ C:\Users\balje\Downloads\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\
 C:\Users\balje\Downloads\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
 C:\Users\balje\Downloads\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
 C:\Users\balje\Downloads\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+D:\TriangleSolver-Git\TriangleSolver\TriangleSolver\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+D:\TriangleSolver-Git\TriangleSolver\TriangleSolver\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+D:\TriangleSolver-Git\TriangleSolver\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+D:\TriangleSolver-Git\TriangleSolver\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+D:\TriangleSolver-Git\TriangleSolver\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+D:\TriangleSolver-Git\TriangleSolver\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb

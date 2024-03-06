@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{66B7D23A-59F3-49BD-9E2E-7A0C97FF0E69}|TringleSolverTest\\TringleSolverTest.csproj|solutionrelative:tringlesolvertest\\tringlesolvertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E91297F3-BEAC-4D77-8BEF-B6DA0646079E}|TriangleSolver\\TriangleSolver.csproj|d:\\trianglesolver-git\\trianglesolver\\trianglesolver\\trianglesolver\\trianglesolver\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E91297F3-BEAC-4D77-8BEF-B6DA0646079E}|TriangleSolver\\TriangleSolver.csproj|D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\trianglesolver\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E91297F3-BEAC-4D77-8BEF-B6DA0646079E}|TriangleSolver\\TriangleSolver.csproj|solutionrelative:trianglesolver\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,21 +25,20 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TringleSolverTest",
+              "Title": "TringleSolverTest.csproj",
               "DocumentMoniker": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\TringleSolverTest.csproj",
               "RelativeDocumentMoniker": "TringleSolverTest\\TringleSolverTest.csproj",
               "ToolTip": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\TringleSolverTest.csproj",
               "RelativeToolTip": "TringleSolverTest\\TringleSolverTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-06T20:14:50.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-03-06T20:14:50.36Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "TringleSolverTest\\UnitTest1.cs",
               "ToolTip": "D:\\TriangleSolver-Git\\TriangleSolver\\TriangleSolver\\TriangleSolver\\TringleSolverTest\\UnitTest1.cs",
               "RelativeToolTip": "TringleSolverTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T20:14:44.259Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "TriangleSolver\\Triangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T19:38:12.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T19:38:12.741Z"
             }
           ]
         }
