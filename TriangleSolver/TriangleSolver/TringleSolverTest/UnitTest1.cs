@@ -124,5 +124,35 @@ namespace TringleSolverTest
             string result = Triangle.AnalyzeTriangle(A, B, C);
             Assert.AreEqual("Invalid Triangle - a zero has been detected", result);
         }
+
+        [Test]
+        public void TestInvalidResponse1()
+        {
+            int A = 1;
+            int B = 2;
+            int C = 10;
+            string result = Triangle.AnalyzeTriangle(A, B, C);
+            Assert.AreEqual("INVALID!!", result);
+        }
+
+        [Test]
+        public void TestInvalidResponse2()
+        {
+            int A = 1;
+            int B = 2;
+            int C = 3;
+            string result = Triangle.AnalyzeTriangle(A, B, C);
+            Assert.AreEqual("INVALID!!", result);
+        }
+
+        [Test]
+        public void TestInvalidResponse3()
+        {
+            int A = -1;
+            int B = 2;
+            int C = 3;
+            string result = Triangle.AnalyzeTriangle(A, B, C);
+            Assert.AreEqual("INVALID!!", result);
+        }
     }
 }
